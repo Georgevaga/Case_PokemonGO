@@ -1,0 +1,3 @@
+The game initial with 3 Pokemons: Bulbasaur, Charmander and Squirtle
+
+Created at 4:04 October 10/05
